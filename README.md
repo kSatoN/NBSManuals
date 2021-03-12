@@ -12,5 +12,7 @@
 
 ## 目次
 
-
+- カメラ
+	- RICOH THETA V
+		- [スマホでの設定と映像の確認](./Camera/RICOH_THETA_V/setting_up_and_checking_image_with_your_smartphone.md)
 
