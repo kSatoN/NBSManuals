@@ -14,5 +14,6 @@
 
 - カメラ
 	- RICOH THETA V
+		- [THETAって何？ （撮影・編集方法込み）](Camera/RICOH_THETA_V/what_is_theta.md)
 		- [スマホでの設定と映像の確認](./Camera/RICOH_THETA_V/setting_up_and_checking_image_with_your_smartphone.md)
 
