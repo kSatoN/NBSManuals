@@ -13,7 +13,7 @@ RICOH THETA V
 
 ## 撮影の仕方と注意点
 
-別記事にまとめました → [スマホでの設定と映像の確認](./setting_up_and_checking_image_with_your_smartphone.md)
+別記事にまとめました → [スマホでの設定と映像の確認](./SettingUpAndCheckingImageWithYourSmartphone.md)
 
 また，0°（動画再生したときの最初の向き，正面）は【要確認】の面です。編集で正面の向きを変えることもできますが，撮影時に正面を合わせておくと編集が楽になります。
 
