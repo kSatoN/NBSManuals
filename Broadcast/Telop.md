@@ -13,7 +13,7 @@ Broadcast
 - フォーマット：PNG
 - 色空間：sRGB
 - 色形式：RGBA
-- 色深度：8 bpc（合計32 bits/pixel）
+- 色深度：8 bits/channel（合計32 bits/pixel）
 - インターレース：True
 
 
