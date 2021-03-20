@@ -15,6 +15,8 @@
 - 生配信
 	- [生配信用テロップの作成](./Broadcast/Telop.md)
 	- [YouTube Liveでの配信](./Broadcast/YouTubeLive.md)
+	- [OBS Studioの設定](./Broadcast/OBSStudioSetting.md)
+	- [OBS Studioでの配信](./Broadcast/OBSStudioBroadcast.md)
 - カメラ
 	- RICOH THETA V
 		- [THETAって何？ （撮影・編集方法込み）](./Camera/RicohThetaV/WhatIsTheta.md)
