@@ -19,6 +19,7 @@
 	- [OBS Studioでの配信](./Broadcast/OBSStudioBroadcast.md)
 	- [スイッチャー（ATEM）の使い方](./Broadcast/Switcher.md)
 - カメラ
+	- [スイッチャーにつなぐときのカメラ設定](./Camera/ToSwitcher.md)
 	- RICOH THETA V
 		- [THETAって何？ （撮影・編集方法込み）](./Camera/RicohThetaV/WhatIsTheta.md)
 		- [スマホでの設定と映像の確認](./Camera/RicohThetaV/SettingUpAndCheckingImageWithYourSmartphone.md)
