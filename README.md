@@ -18,6 +18,7 @@
 	- [OBS Studioの設定](./Broadcast/OBSStudioSetting.md)
 	- [OBS Studioでの配信](./Broadcast/OBSStudioBroadcast.md)
 	- [スイッチャー（ATEM）の使い方](./Broadcast/Switcher.md)
+	- [卒業式配信の事前準備まとめ](./Broadcast/PrepareGraduation.md)
 - カメラ
 	- [スイッチャーにつなぐときのカメラ設定](./Camera/ToSwitcher.md)
 	- RICOH THETA V
