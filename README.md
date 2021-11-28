@@ -1,4 +1,4 @@
-# NBSManuals
+# NBS Manuals
 
 ## 概要
 
@@ -10,17 +10,17 @@
 ## 目次
 
 - 生配信
-	- [生配信用テロップの作成](./Broadcast/Telop.md)
-	- [YouTube Liveでの配信](./Broadcast/YouTubeLive.md)
-	- [OBS Studioの設定](./Broadcast/OBSStudioSetting.md)
-	- [OBS Studioでの配信](./Broadcast/OBSStudioBroadcast.md)
-	- [スイッチャー（ATEM）の使い方](./Broadcast/Switcher.md)
-	- [卒業式配信の事前準備まとめ](./Broadcast/PrepareGraduation.md)
+	- [生配信用テロップの作成](./broadcast/telop.md)
+	- [YouTube Liveでの配信](./broadcast/youtube-live.md)
+	- [OBS Studioの設定](./broadcast/obs-studio-setting.md)
+	- [OBS Studioでの配信](./broadcast/obs-studio-broadcast.md)
+	- [スイッチャー（ATEM）の使い方](./broadcast/switcher.md)
+	- [卒業式配信の事前準備まとめ](./broadcast/prepare-graduation.md)
 - カメラ
-	- [スイッチャーにつなぐときのカメラ設定](./Camera/ToSwitcher.md)
+	- [スイッチャーにつなぐときのカメラ設定](./camera/to-switcher.md)
 	- RICOH THETA V
-		- [THETAって何？ （撮影・編集方法込み）](./Camera/RicohThetaV/WhatIsTheta.md)
-		- [スマホでの設定と映像の確認](./Camera/RicohThetaV/SettingUpAndCheckingImageWithYourSmartphone.md)
+		- [THETAって何？ （撮影・編集方法込み）](./camera/ricoh-theta-v/what-is-theta.md)
+		- [スマホでの設定と映像の確認](./camera/ricoh-theta-v/setting-up-and-checking-image-with-your-smartphone.md)
 - 全般
 	- [停電前にやること](./general/before-a-power-cut.md)
 	- [停電後にやること](./general/after-a-power-cut.md)
