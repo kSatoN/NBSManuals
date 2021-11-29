@@ -1,3 +1,5 @@
+[トップへ戻る](../README.md)
+
 Broadcast  
 2021/03/17作成
 
@@ -141,3 +143,5 @@ Broadcast
 先に↑共通の項目をやってください。
 
 SSH接続を終了します。PowerShellウィンドウでCTRL＋Cを押します。
+
+[トップへ戻る](../README.md)
